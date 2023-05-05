@@ -70,6 +70,8 @@
   "scripts": {
     "compile": "tsc",
     "test": "npm run compile && jest",
+    "rc":"git add . &&  git commit -am",
+    "postrc":"git push origin master",
     "prepublishOnly": "npm run compile"
   },
   "readme": "",
