@@ -1,5 +1,5 @@
 {
-  "name": "@xiangnascu/xlsx-template",
+  "name": "@xiangnanscu/xlsx-template",
   "version": "1.4.3",
   "description": "Generate .xlsx (Excel) files from templates built in Excel",
   "main": "./lib/index",
